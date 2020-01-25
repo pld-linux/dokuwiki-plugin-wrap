@@ -1,6 +1,5 @@
 %define		plugin		wrap
 %define		php_min_version 5.0.0
-%include	/usr/lib/rpm/macros.php
 Summary:	DokuWiki Wrap plugin
 Summary(pl.UTF-8):	Wtyczka Wrap dla DokuWiki
 Name:		dokuwiki-plugin-%{plugin}
